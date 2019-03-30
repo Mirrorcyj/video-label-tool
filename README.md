@@ -8,11 +8,11 @@ This is a project for labelling videos.This implementation is based on C++ and Q
 - Qt Creator 4.8.2
 - Opencv 3.4.3
 
-###Quick Start
+##Quick Start
 
 - run main.cpp
 
-###UI Preview
+##UI Preview
 ![index](https://github.com/Mirrorcyj/video-label-tool/raw/master/UI/video_label_tool.png)
 
 

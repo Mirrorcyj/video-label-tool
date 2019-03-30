@@ -1,7 +1,7 @@
 # Video Label Tool #
 
 ## Introdution
-This is a project for labelling videos.This implementation is based on C++ and Qt Creator 4.8.2. The tool is to mark the ROI  of every frames in the video with a bounding rectangle and save the vertexes of the rectangle to a ".txt" file in the folder that contain the video file.
+This is a project for labelling videos.This implementation is based on C++ and Qt Creator 4.8.2. The tool is to mark the ROI  of frames in the video with a bounding rectangle and save the vertexes of the rectangle to a ".txt" file in the folder that contains the video file.
 
 ## Requirement
 - Qt 5.12.2

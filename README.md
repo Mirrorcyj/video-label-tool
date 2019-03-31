@@ -10,7 +10,7 @@ This is a project for labelling videos.This implementation is based on C++ and Q
 
 ## Quick Start
 
-- run main.cpp
+- run labelTool.pro
 
 ## UI Preview
 ![index](https://github.com/Mirrorcyj/video-label-tool/raw/master/UI/video_label_tool.png)
